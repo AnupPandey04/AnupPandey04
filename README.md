@@ -1,7 +1,7 @@
 # Hi 👋, I'm Anup Pandey
 
 ## 💫 About Me:
-🎓 B.Tech CSE Student at **Lovely Professional University**<br><br>🔭 I’m currently working on Full-Stack MERN and AI projects<br><br>👯 I’m looking to collaborate on Open Source projects<br><br>🤝 I’m looking for help with Advanced Machine Learning and Cloud Architecture<br><br>🌱 I’m currently learning AWS, System Design, and Data Science<br><br>💬 Ask me about MERN Stack, JavaScript, Python, and DSA<br><br>⚡ Fun fact: Coffee + Code = My favorite tech stack ☕
+Passionate Full-Stack Developer and Computer Science student at Lovely Professional University. I love building MERN stack applications, exploring AI technologies, and solving complex problems through code. Currently learning Machine Learning, AWS, and System Design while creating projects that make an impact. 🚀<br><br>⚡ Fun fact: Coffee + Code = My favorite tech stack ☕
 
 
 ## 🌐 Socials:
